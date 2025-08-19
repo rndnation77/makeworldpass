@@ -1,0 +1,2 @@
+1. python makeworld.py admin,user,pass,05,04,1,@ result.txt normal/hard/extrim
+2. python makeworld2.py yourlist.txt result normal/hard/extrim
